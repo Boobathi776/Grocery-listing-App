@@ -1,1 +1,2 @@
-onnum solrathuku illa 
+using this app we can add items that we want to buy when we go to grocery shop or send this list to grocery store to make a order.
+for these puposes we can use this app 
